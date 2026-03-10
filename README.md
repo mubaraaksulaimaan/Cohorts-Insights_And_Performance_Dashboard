@@ -1,7 +1,4 @@
-# Cohort Insights and Performance Dashboard
-An interactive **R Shiny dashboard** to monitor internship cohort performance, visualize trends, and generate insights for student attendance, test scores, project completion, and final grades.
-
-📌 **Internship Cohort Dashboard**  
+📌 **Cohort Insights and Performance Dashboard**  
 A web-based R Shiny application built to track and visualize performance trends across multiple cohorts and months. It simplifies monitoring, reporting, and analysis for internship programs, providing actionable insights with an interactive interface.
 
 ## 🚀 Features
