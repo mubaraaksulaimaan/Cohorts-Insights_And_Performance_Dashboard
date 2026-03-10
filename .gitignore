@@ -1,0 +1,19 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.Renviron
+
+# VS Code settings
+.vscode/
