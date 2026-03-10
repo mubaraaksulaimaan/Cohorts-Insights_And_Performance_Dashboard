@@ -1,0 +1,591 @@
+Student_ID,Name,Cohort,Month,Attendance (%),Assignments_Completed,Test_Score,Project_Completion (%),Final_Grade
+1,Mohammed Yusuf,Data Science Advanced,November,57,5,78,68,A
+1,Hannah Adeyemi,Data Science Beginners,August,85,8,63,52,A
+1,Benedict Ekene,Python Advanced,August,93,6,41,70,C
+1,Chioma Sani,Python Advanced,June,93,9,88,76,C
+1,Emeka Iheanacho,Python Advanced,December,65,3,83,52,D
+1,Kelvin Ogunbiyi,Data Science Beginners,May,58,7,57,53,F
+2,Ahmed Ajayi,Python Advanced,October,58,10,92,51,C
+2,Oluwaseun Adewale,Data Science Beginners,December,56,8,86,84,F
+2,Grace Adebayo,Data Science Advanced,February,89,4,41,55,A
+2,Esther Osei,Data Science Advanced,June,78,2,65,93,F
+2,Tunde Onyeka,Python Advanced,April,63,8,53,72,B
+3,Hauwa Okorie,Data Science Advanced,May,65,2,86,73,B
+3,Funmi Ali,Data Science Advanced,December,94,9,68,64,A
+3,Chioma Uche,Python Beginners,July,58,8,40,93,A
+3,Chukwuemeka Iheanacho,Data Science Beginners,November,100,1,47,84,C
+3,Ezekiel Ogunleye,Data Science Beginners,May,91,7,97,90,F
+4,Victor Abiola,Data Science Advanced,December,83,1,87,72,C
+4,Tunde Abdullahi,Python Beginners,March,93,8,61,76,B
+4,Fatima Ogunbiyi,Data Science Beginners,May,96,3,40,54,B
+4,Umar Osei,Data Science Beginners,July,76,9,54,64,A
+5,Usman Yusuf,Data Science Beginners,July,98,4,100,81,C
+5,Hauwa Fashola,Python Beginners,July,88,4,52,81,B
+5,Usman Adeyemi,Data Science Beginners,June,77,2,81,94,A
+5,Joshua Ekene,Python Beginners,June,77,4,69,60,B
+6,Rahman Ayodele,Data Science Advanced,September,88,1,40,76,B
+6,Oluwaseun Adebisi,Data Science Advanced,September,52,7,45,57,B
+6,Ahmed Ajayi,Python Advanced,May,82,3,81,93,A
+6,Chioma Uche,Data Science Beginners,June,81,8,80,98,A
+6,Chioma Ibrahim,Python Advanced,April,61,7,41,52,B
+6,Benedict Adewale,Python Beginners,August,66,1,41,51,B
+7,Abdullahi Okafor,Python Beginners,January,50,3,41,93,B
+7,Hannah Omotayo,Python Advanced,July,53,7,50,66,C
+7,Victor Musa,Data Science Advanced,May,83,6,61,60,D
+7,Rose Abiola,Data Science Advanced,January,58,6,55,78,D
+7,Daniel Adeyemi,Data Science Advanced,November,85,3,65,52,D
+7,Aminat Williams,Data Science Advanced,July,90,1,79,88,F
+8,Benedict Musa,Data Science Beginners,December,74,2,62,80,D
+8,Olufunke Okafor,Data Science Beginners,July,65,10,87,98,A
+8,Rahman Okoro,Data Science Advanced,December,54,5,71,58,A
+8,Esther Obi,Data Science Beginners,March,69,8,93,82,C
+9,Oluwaseun Abiola,Python Beginners,August,85,6,79,69,B
+9,Funmi Chima,Data Science Advanced,September,84,9,68,67,A
+9,Umar Chima,Python Advanced,February,84,9,75,82,A
+9,Rose Nnamdi,Python Advanced,May,97,4,95,57,D
+9,Chukwuemeka Ogundele,Python Beginners,January,97,3,61,71,A
+9,Aminat Chima,Python Advanced,June,94,3,93,57,C
+10,Kelvin Eze,Python Beginners,January,77,1,44,97,A
+10,Chioma Olawale,Data Science Beginners,January,66,5,45,84,C
+10,Rahman Yusuf,Python Beginners,August,78,1,85,80,F
+10,Hannah Ekene,Python Beginners,April,70,7,72,52,A
+10,Mohammed Ibrahim,Python Beginners,October,80,6,97,52,B
+11,Aisha Ekene,Data Science Advanced,June,72,2,66,91,D
+11,Victor Okafor,Python Beginners,August,82,9,82,97,B
+11,David Abiola,Python Advanced,July,75,3,89,74,C
+11,Samuel Chima,Data Science Advanced,October,56,9,75,94,A
+11,Rahman Olusola,Data Science Advanced,December,100,7,54,77,B
+12,Rose Ibrahim,Data Science Beginners,June,100,9,97,71,B
+12,Musa Okoye,Python Advanced,January,91,6,54,92,A
+12,Tunde Ekene,Python Beginners,August,93,5,78,53,D
+12,Bashir Eze,Data Science Advanced,April,79,3,94,89,C
+12,Aisha Okorie,Python Beginners,February,91,3,56,68,B
+12,Victoria Afolabi,Data Science Beginners,October,86,10,92,72,B
+13,Ngozi Fashola,Python Beginners,October,50,2,71,97,A
+13,John Paul,Python Beginners,May,50,7,44,71,C
+13,Rose Adebisi,Data Science Beginners,December,75,3,76,71,A
+13,Esther Adewale,Python Advanced,December,54,1,69,95,F
+14,Fatima Adeyemi,Data Science Advanced,October,75,5,78,85,A
+14,Funmi Okoye,Python Advanced,May,72,10,49,54,D
+14,Daniel Oladipo,Data Science Advanced,October,68,10,71,50,B
+14,Chioma Ibrahim,Python Beginners,April,65,8,55,51,A
+15,Hauwa Nnamdi,Data Science Advanced,August,61,2,74,82,B
+15,Kelvin Abiola,Data Science Beginners,November,86,3,40,82,C
+15,Ahmed Ogunbiyi,Data Science Beginners,December,78,2,100,100,C
+15,Joshua Iheanacho,Data Science Beginners,January,75,8,68,75,C
+15,Samuel Nwachukwu,Python Advanced,February,100,9,46,53,C
+15,Funmi Kabir,Python Advanced,November,78,8,75,74,D
+16,Aminat Adewale,Data Science Advanced,October,86,9,63,84,F
+16,Emilia Olusola,Data Science Advanced,April,67,1,78,81,B
+16,Amaka Osei,Python Advanced,May,61,1,94,62,C
+16,David Olawale,Data Science Beginners,September,79,1,88,69,D
+17,Rose Yusuf,Python Beginners,November,68,1,75,61,F
+17,Grace Abdullahi,Data Science Beginners,December,58,7,67,63,C
+17,Amaka Sani,Data Science Advanced,March,96,5,44,84,C
+17,Ngozi Ekene,Data Science Advanced,November,70,4,92,72,C
+17,Oluwaseun Afolabi,Data Science Beginners,May,91,10,78,63,B
+18,Musa Eze,Data Science Beginners,July,78,2,86,61,C
+18,Chioma Ogunleye,Python Advanced,December,66,6,46,95,C
+18,Rose Nnamdi,Python Advanced,September,99,10,41,54,B
+18,Ngozi Ajayi,Python Advanced,March,57,1,61,66,F
+19,Ibrahim Chukwu,Python Beginners,April,85,6,99,80,B
+19,Amaka Okoro,Data Science Advanced,June,88,10,65,68,A
+19,Kafayat Okorie,Data Science Beginners,February,77,10,59,77,C
+19,Grace Adebisi,Data Science Beginners,September,88,1,42,62,A
+20,Aisha Osei,Data Science Beginners,December,98,9,95,82,A
+20,Funmi Okorie,Python Advanced,October,93,5,55,70,F
+20,Farida Obi,Python Beginners,April,84,3,59,67,A
+20,David Lawal,Python Beginners,January,52,7,96,60,A
+21,Aisha Akinola,Data Science Advanced,August,77,5,47,77,C
+21,Grace Okorie,Data Science Advanced,October,99,5,80,85,F
+21,Funmi Uche,Python Advanced,January,58,1,92,69,C
+21,Maryam Ogunleye,Data Science Advanced,March,55,2,90,54,C
+21,Sarah Nwachukwu,Python Advanced,October,79,2,98,94,A
+22,Benedict Chukwu,Python Advanced,January,67,1,50,70,C
+22,Patrick Ayodele,Python Beginners,June,76,1,52,82,B
+22,Usman Adams,Data Science Beginners,January,70,7,45,77,D
+22,David Olusola,Data Science Beginners,May,87,3,92,72,C
+23,Precious Ayodele,Python Advanced,October,68,1,60,63,A
+23,Ezekiel Kabir,Python Beginners,March,94,4,40,98,C
+23,Rahman Adeyemi,Python Advanced,December,80,8,78,75,B
+23,Chinedu Chukwu,Python Advanced,June,52,2,51,50,B
+24,Mohammed Ibrahim,Python Advanced,November,66,7,54,86,C
+24,Ngozi Adeyemi,Python Advanced,November,100,7,77,83,B
+24,Victor Adeyemi,Python Advanced,February,79,3,73,87,B
+24,Ezekiel Chima,Data Science Beginners,December,79,7,81,100,C
+25,Ahmed Fashola,Data Science Advanced,October,66,10,56,69,B
+25,Precious Adeyemi,Python Advanced,June,51,3,86,72,A
+25,Musa Osei,Data Science Beginners,November,65,8,43,89,C
+25,Precious Adebisi,Python Beginners,March,81,3,66,78,F
+26,Samuel Yusuf,Python Advanced,March,68,5,44,67,A
+26,Esther Ogundele,Python Beginners,June,70,6,40,54,B
+26,Samuel Williams,Python Advanced,February,98,10,84,76,A
+26,Patrick Ogunleye,Python Beginners,September,71,8,69,92,F
+27,Ngozi Fashola,Python Beginners,October,85,1,47,98,B
+27,Tunde Fashola,Data Science Advanced,August,71,10,67,72,B
+27,Patrick Paul,Python Advanced,October,63,8,90,56,C
+27,Ibrahim Ogunleye,Data Science Beginners,November,96,2,97,87,B
+28,Emeka Uche,Data Science Advanced,September,86,10,78,66,A
+28,Grace Oladipo,Python Advanced,December,74,1,52,69,B
+28,Adamu Osei,Python Advanced,March,90,2,86,85,B
+28,Victor Okafor,Python Advanced,August,89,1,83,68,B
+28,Adamu Okorie,Python Beginners,June,75,2,98,94,B
+28,Funmi Okoye,Python Beginners,January,71,5,45,55,A
+29,Emeka Oladipo,Data Science Beginners,August,58,7,42,100,A
+29,Usman Kabir,Python Beginners,April,73,6,41,69,F
+29,Bashir Balogun,Data Science Advanced,June,98,8,77,100,D
+29,Chioma Ajayi,Python Advanced,November,57,10,90,94,C
+29,Precious Nwachukwu,Python Advanced,October,53,3,59,82,C
+30,Aminat Okonkwo,Python Beginners,October,63,6,76,60,F
+30,Chioma Olawale,Python Beginners,November,52,1,45,99,B
+30,Abdullahi Ali,Python Beginners,July,59,2,52,89,D
+30,Joshua Oladipo,Python Beginners,May,58,1,48,60,B
+30,Amaka Adeyemi,Python Advanced,July,84,1,44,93,B
+30,Victoria Obi,Python Beginners,August,60,9,73,61,B
+31,Funmi Adams,Data Science Advanced,June,78,8,50,90,C
+31,Grace Eze,Data Science Advanced,March,70,5,44,68,C
+31,Usman Olawale,Python Advanced,April,74,10,64,67,D
+31,Aminat Etim,Data Science Beginners,August,63,3,100,87,B
+32,Patrick Musa,Data Science Beginners,January,74,1,72,96,B
+32,Mohammed Suleiman,Python Advanced,May,89,8,90,88,A
+32,Victoria Osei,Python Advanced,March,56,3,47,91,A
+32,Aisha Omotayo,Data Science Beginners,January,79,7,66,85,F
+32,Funmi Balogun,Python Beginners,January,86,7,72,53,B
+32,Suleiman Adeyemi,Python Advanced,May,59,1,93,87,B
+33,Usman Lawal,Data Science Advanced,August,64,8,44,78,A
+33,Hannah Ogunbiyi,Data Science Advanced,February,76,3,90,85,B
+33,Ngozi Yusuf,Data Science Beginners,November,54,4,50,59,B
+33,Patrick Okoro,Python Advanced,August,72,10,85,92,A
+33,Chioma Okorie,Python Beginners,August,67,9,72,96,C
+33,Umar Adams,Data Science Beginners,December,93,4,87,53,C
+34,Ahmed Suleiman,Data Science Advanced,October,98,10,48,100,C
+34,Oluwaseun Etim,Data Science Advanced,September,71,7,40,95,A
+34,Benedict Suleiman,Python Advanced,April,72,9,40,100,B
+34,Hauwa Ekene,Python Beginners,September,58,10,91,75,B
+35,Maryam Ibrahim,Data Science Advanced,September,75,6,41,56,B
+35,Bashir Ogunleye,Python Advanced,November,66,3,93,73,B
+35,Chioma Nwachukwu,Data Science Advanced,June,73,1,88,78,B
+35,Fatima Ekene,Python Advanced,October,77,2,60,98,A
+35,Sarah Chima,Data Science Advanced,September,98,4,93,71,A
+35,Ahmed Chima,Python Beginners,August,98,7,40,81,A
+36,Precious Yusuf,Data Science Beginners,November,68,1,84,78,B
+36,Chioma Oladipo,Data Science Advanced,March,67,1,53,100,B
+36,Abdullahi Iheanacho,Python Advanced,June,77,1,89,79,B
+36,Kafayat Bello,Data Science Beginners,April,50,8,68,88,C
+36,Hannah Ekene,Python Advanced,October,68,2,99,82,A
+36,Esther Olawale,Data Science Advanced,February,56,8,40,52,A
+37,Ngozi Osei,Data Science Beginners,August,96,5,42,100,C
+37,Chioma Paul,Data Science Beginners,August,83,3,71,73,C
+37,Hauwa Obi,Data Science Advanced,November,65,4,91,86,A
+37,Joshua Uche,Python Advanced,July,97,2,46,59,A
+37,Abdullahi Omotayo,Data Science Beginners,May,68,3,75,78,B
+37,Ifeanyi Kabir,Python Advanced,January,96,5,59,60,A
+38,John Osei,Data Science Beginners,July,61,4,44,86,B
+38,Tunde Balogun,Python Advanced,September,83,5,83,84,F
+38,Emilia Musa,Python Advanced,December,73,1,49,79,B
+38,Esther Etim,Python Advanced,July,81,1,89,100,B
+38,Rahman Balogun,Python Beginners,August,51,9,78,58,A
+39,Hauwa Okafor,Python Advanced,April,75,10,68,94,C
+39,Hauwa Okafor,Python Beginners,November,55,2,60,91,B
+39,Musa Adebayo,Python Advanced,February,66,5,64,87,D
+39,Benedict Ekene,Data Science Beginners,May,91,6,60,76,F
+39,Grace Oladipo,Python Advanced,November,89,2,51,94,C
+39,Usman Ibrahim,Data Science Beginners,October,94,1,65,70,B
+40,Abdullahi Uche,Python Advanced,February,92,1,90,85,C
+40,Mohammed Balogun,Python Beginners,May,60,8,50,85,C
+40,Abdullahi Paul,Data Science Beginners,August,84,6,73,96,F
+40,Kelvin Ogundele,Python Advanced,May,82,10,75,96,A
+40,Rose Osei,Data Science Beginners,April,92,1,98,94,A
+41,Ezekiel Okoro,Python Advanced,February,58,9,79,66,B
+41,Mohammed Okoye,Python Beginners,November,89,10,64,88,A
+41,Adamu Ogundele,Python Advanced,May,93,3,69,87,B
+41,Maryam Afolabi,Data Science Beginners,May,93,1,100,66,F
+42,Ngozi Suleiman,Python Beginners,December,65,8,58,57,C
+42,Bashir Onyeka,Python Beginners,July,86,6,55,55,F
+42,Emilia Suleiman,Python Advanced,September,61,10,80,94,C
+42,Maryam Olusola,Data Science Advanced,October,65,7,56,72,B
+42,Chioma Okeke,Python Advanced,October,56,5,46,58,A
+42,Maryam Fashola,Data Science Advanced,February,72,2,70,79,A
+43,Amaka Ogunbiyi,Python Advanced,November,91,7,56,63,B
+43,Kelvin Suleiman,Data Science Beginners,December,94,2,42,86,B
+43,Chinedu Bello,Python Advanced,July,72,7,54,98,B
+43,Ezekiel Ekene,Python Advanced,September,62,2,72,65,B
+43,Sarah Adams,Data Science Advanced,February,84,10,73,79,A
+43,Victor Onyeka,Python Beginners,February,81,3,98,88,A
+44,Adamu Afolabi,Python Advanced,January,78,5,83,65,D
+44,Hauwa Musa,Data Science Beginners,September,59,9,78,69,C
+44,Abdullahi Omotayo,Python Advanced,January,52,8,69,99,A
+44,Oluwaseun Balogun,Python Advanced,May,74,1,92,95,A
+45,Benedict Adewale,Python Beginners,September,73,4,51,86,C
+45,Bashir Nnamdi,Data Science Beginners,December,55,7,95,95,C
+45,Esther Sani,Python Advanced,February,74,7,91,53,A
+45,Daniel Nnamdi,Data Science Advanced,June,100,10,82,83,B
+45,Hauwa Eze,Python Beginners,January,52,8,45,54,A
+45,Amaka Okoye,Data Science Beginners,July,98,9,74,69,F
+46,Kafayat Ogundele,Data Science Beginners,October,84,2,57,66,A
+46,Mohammed Sani,Data Science Advanced,March,87,8,100,96,A
+46,Joshua Olusola,Data Science Advanced,May,83,9,95,52,A
+46,Victoria Etim,Python Beginners,September,52,9,73,61,A
+47,Oluwaseun Chukwu,Data Science Advanced,September,54,2,63,64,A
+47,Rahman Ayodele,Data Science Beginners,May,97,10,57,55,F
+47,Rahman Obi,Data Science Advanced,December,54,1,89,89,D
+47,Usman Okafor,Python Advanced,March,52,8,79,83,B
+47,Rose Adewale,Python Beginners,January,55,8,58,65,C
+47,Ngozi Adams,Python Beginners,November,97,9,52,92,A
+48,Farida Etim,Python Advanced,April,76,6,99,56,D
+48,Ngozi Onyeka,Python Beginners,October,100,7,81,59,D
+48,Emeka Etim,Python Beginners,July,80,2,75,51,D
+48,Rahman Kabir,Python Beginners,December,88,2,71,62,C
+49,Daniel Omotayo,Python Beginners,January,89,2,99,73,D
+49,Rahman Ibrahim,Data Science Advanced,June,68,7,49,90,F
+49,Oluwaseun Okoye,Data Science Beginners,December,64,5,68,71,F
+49,Victor Ali,Data Science Advanced,April,99,4,66,66,C
+50,David Etim,Python Advanced,June,50,6,65,67,D
+50,Tunde Adeyemi,Data Science Advanced,December,85,3,91,61,A
+50,Rahman Okafor,Data Science Beginners,January,55,3,50,72,B
+50,Chukwuemeka Williams,Python Advanced,February,78,4,56,84,B
+51,Ezekiel Olusola,Data Science Beginners,July,78,4,71,51,C
+51,Abdullahi Paul,Data Science Advanced,June,60,3,56,93,A
+51,Grace Okeke,Python Beginners,May,96,5,98,69,B
+51,Musa Abiola,Python Beginners,May,52,1,97,87,A
+51,Emeka Musa,Python Beginners,March,98,9,63,61,B
+51,Ahmed Osei,Data Science Advanced,November,57,9,56,78,C
+52,Ahmed Ogunbiyi,Data Science Beginners,February,56,3,68,93,A
+52,Amaka Ogundele,Data Science Advanced,October,52,4,85,64,B
+52,Chioma Adebisi,Python Advanced,July,66,4,75,58,A
+52,Hauwa Adams,Python Beginners,December,71,6,92,51,C
+52,Kelvin Fashola,Data Science Beginners,January,57,5,57,79,B
+52,Rose Adebisi,Python Advanced,June,81,9,72,87,F
+53,Joshua Suleiman,Python Advanced,March,73,9,56,61,F
+53,John Paul,Data Science Advanced,June,71,4,72,59,C
+53,Adamu Okonkwo,Python Advanced,December,82,2,72,82,D
+53,Olufunke Adams,Python Advanced,January,62,4,65,71,B
+53,Benedict Abdullahi,Python Advanced,July,75,10,89,64,A
+53,Musa Ayodele,Data Science Beginners,December,98,8,50,52,D
+54,Grace Fashola,Python Advanced,September,88,9,89,61,D
+54,Aminat Kabir,Python Advanced,December,69,7,50,69,B
+54,Grace Olawale,Python Advanced,October,71,10,42,90,A
+54,Aminat Olawale,Python Advanced,November,67,6,51,72,C
+55,Fatima Ogundele,Python Beginners,March,68,7,85,85,C
+55,Aminat Ali,Python Beginners,July,81,3,83,67,A
+55,David Iheanacho,Data Science Beginners,June,86,8,80,52,A
+55,Hauwa Yusuf,Data Science Beginners,March,78,6,54,82,D
+56,Victor Osei,Python Advanced,May,80,10,100,73,B
+56,Abdullahi Adebisi,Data Science Advanced,December,93,4,99,73,B
+56,Oluwaseun Musa,Data Science Beginners,September,85,10,92,83,B
+56,Mohammed Afolabi,Python Advanced,February,85,6,78,91,F
+57,Abdullahi Afolabi,Python Advanced,December,52,2,79,70,C
+57,Aminat Olusola,Data Science Beginners,October,57,4,87,79,A
+57,Emeka Olawale,Data Science Advanced,February,86,5,77,94,B
+57,Oluwaseun Okafor,Python Advanced,December,96,8,78,74,C
+57,Kafayat Etim,Data Science Beginners,June,66,9,96,77,A
+58,Umar Ayodele,Python Beginners,January,89,8,75,94,A
+58,Ahmed Adebayo,Data Science Beginners,November,59,3,93,63,B
+58,Samuel Ekene,Python Beginners,October,61,9,40,54,A
+58,John Paul,Data Science Beginners,December,50,9,93,69,B
+59,Chioma Ogundele,Python Beginners,May,61,5,88,98,C
+59,Chioma Afolabi,Data Science Advanced,December,96,6,83,69,A
+59,Ngozi Okeke,Python Advanced,September,86,4,65,78,C
+59,Hauwa Okoro,Data Science Beginners,June,86,5,98,54,A
+59,Chioma Akinola,Data Science Beginners,December,91,4,92,99,F
+59,Joshua Onyeka,Data Science Beginners,February,74,2,68,88,B
+60,Grace Etim,Data Science Beginners,February,72,6,59,72,A
+60,Aisha Adebisi,Python Beginners,April,65,2,81,57,F
+60,Emeka Ogunleye,Python Beginners,July,57,6,44,96,A
+60,Ahmed Chima,Python Advanced,January,75,10,69,99,A
+60,Aisha Ogundele,Python Advanced,August,96,8,88,61,A
+60,Chioma Onyeka,Python Beginners,April,82,1,58,80,C
+61,Chukwuemeka Nwachukwu,Data Science Advanced,May,90,10,67,51,F
+61,Fatima Abdullahi,Python Advanced,September,82,9,64,97,C
+61,Emilia Abiola,Python Beginners,September,60,4,73,87,B
+61,Daniel Lawal,Python Advanced,March,55,2,57,62,C
+62,Aminat Okoro,Python Beginners,November,50,8,93,56,A
+62,Benedict Ogunbiyi,Data Science Beginners,January,61,10,46,64,C
+62,Farida Bello,Data Science Advanced,September,82,1,71,98,B
+62,Ahmed Ekene,Python Advanced,October,60,3,47,95,C
+62,Benedict Abdullahi,Python Advanced,September,52,5,65,57,B
+62,Rose Ayodele,Python Advanced,December,78,10,64,61,A
+63,Aisha Okorie,Data Science Beginners,December,85,7,45,95,C
+63,Sarah Afolabi,Data Science Beginners,November,94,5,62,92,A
+63,Adamu Suleiman,Data Science Beginners,May,64,9,75,60,B
+63,Ezekiel Adebayo,Data Science Advanced,May,62,6,58,83,A
+64,John Okafor,Data Science Advanced,November,78,3,47,65,A
+64,Farida Ayodele,Python Advanced,February,51,1,52,53,D
+64,Suleiman Chima,Python Advanced,November,56,10,78,62,A
+64,Fatima Olusola,Data Science Beginners,August,98,10,100,91,F
+65,Daniel Oladipo,Data Science Beginners,June,50,8,84,91,A
+65,Joshua Paul,Python Beginners,July,71,6,60,71,B
+65,Musa Okoye,Python Advanced,September,64,10,63,91,F
+65,Ezekiel Ogunbiyi,Data Science Advanced,January,75,5,43,99,C
+65,Tunde Ekene,Data Science Advanced,December,88,10,64,67,C
+66,Chioma Obi,Python Beginners,July,99,5,86,98,C
+66,Grace Etim,Python Advanced,January,70,1,61,97,B
+66,Usman Bello,Data Science Beginners,December,56,10,48,63,C
+66,Chinedu Okonkwo,Python Beginners,September,51,3,46,70,C
+66,Samuel Ali,Python Advanced,June,88,9,88,60,F
+67,David Akinola,Data Science Beginners,April,75,6,81,81,A
+67,Daniel Ibrahim,Python Advanced,April,89,5,72,85,A
+67,Olufunke Bello,Data Science Advanced,January,55,9,78,53,B
+67,Ezekiel Suleiman,Data Science Advanced,February,54,5,47,87,B
+67,Esther Fashola,Data Science Beginners,June,93,10,42,71,C
+68,Chukwuemeka Yusuf,Data Science Advanced,February,87,1,74,83,B
+68,Sarah Nwachukwu,Data Science Advanced,August,71,10,75,54,A
+68,Daniel Fashola,Data Science Beginners,September,65,10,69,65,A
+68,Esther Adewale,Data Science Advanced,December,57,4,42,65,B
+68,Chinedu Iheanacho,Data Science Beginners,December,100,8,93,54,C
+68,Ezekiel Ibrahim,Data Science Advanced,December,50,9,69,70,A
+69,Abdullahi Okorie,Python Advanced,August,88,1,92,65,B
+69,Umar Okoro,Data Science Advanced,February,63,4,72,72,A
+69,Chioma Adeyemi,Python Advanced,September,70,2,66,58,B
+69,Benedict Ekene,Data Science Beginners,April,72,10,43,67,B
+69,Rose Ajayi,Data Science Beginners,June,92,6,99,86,B
+70,Hannah Ali,Python Beginners,October,87,2,84,84,C
+70,Abdullahi Adewale,Python Advanced,June,52,7,91,63,A
+70,Ngozi Bello,Python Beginners,March,51,2,74,67,F
+70,Chioma Sani,Python Advanced,October,74,2,64,82,F
+70,Emeka Abiola,Python Advanced,January,95,6,85,52,F
+70,Funmi Musa,Python Advanced,September,62,5,73,57,B
+71,Chukwuemeka Sani,Data Science Beginners,April,94,4,57,78,A
+71,Chioma Afolabi,Python Advanced,November,51,7,58,80,A
+71,Ezekiel Ogunleye,Data Science Beginners,February,59,9,41,60,C
+71,Kelvin Ogunbiyi,Data Science Beginners,August,64,9,62,68,A
+72,Ngozi Ogunleye,Python Beginners,December,95,3,46,65,C
+72,Ahmed Abiola,Python Beginners,April,53,7,79,66,A
+72,Mohammed Etim,Data Science Advanced,April,78,4,75,87,B
+72,Chukwuemeka Okorie,Data Science Beginners,May,84,7,66,77,B
+73,Musa Lawal,Python Beginners,June,54,7,41,76,B
+73,Chioma Onyeka,Python Advanced,May,59,7,97,88,C
+73,John Adeyemi,Python Beginners,May,75,2,84,70,A
+73,Ifeanyi Lawal,Python Beginners,April,66,3,88,60,B
+73,Kelvin Lawal,Data Science Advanced,July,75,4,73,97,C
+73,Samuel Ekene,Data Science Advanced,March,90,4,68,87,B
+74,Chioma Ibrahim,Python Beginners,January,90,1,95,58,F
+74,Emilia Okeke,Python Advanced,December,97,1,49,99,A
+74,Tunde Iheanacho,Data Science Advanced,August,70,7,73,57,D
+74,Musa Paul,Data Science Advanced,January,64,1,99,72,B
+74,Hannah Nnamdi,Data Science Beginners,May,81,1,62,86,A
+75,Rose Sani,Data Science Beginners,November,50,3,63,84,A
+75,Ahmed Ajayi,Python Beginners,April,70,8,97,80,A
+75,Victoria Ekene,Data Science Beginners,April,64,3,46,100,A
+75,Emilia Onyeka,Data Science Beginners,October,54,5,69,81,A
+76,Tunde Omotayo,Python Advanced,December,66,8,79,74,F
+76,Precious Afolabi,Data Science Beginners,February,52,1,75,53,C
+76,Ifeanyi Adams,Python Beginners,September,99,10,60,85,A
+76,Suleiman Uche,Data Science Advanced,February,62,5,71,80,B
+76,Ibrahim Williams,Data Science Advanced,December,83,10,54,66,F
+77,Ngozi Iheanacho,Python Beginners,September,89,10,64,99,F
+77,Samuel Balogun,Python Advanced,April,70,3,85,98,C
+77,Adamu Okorie,Data Science Beginners,October,81,7,78,98,A
+77,Patrick Adams,Data Science Beginners,February,70,5,47,95,C
+77,Funmi Adebisi,Data Science Beginners,July,93,6,61,92,A
+77,Victoria Okonkwo,Data Science Advanced,February,51,5,54,76,F
+78,Kelvin Fashola,Data Science Beginners,July,73,6,82,86,B
+78,Maryam Kabir,Data Science Advanced,March,68,7,68,79,D
+78,John Obi,Data Science Beginners,September,86,8,81,65,D
+78,Adamu Ogundele,Data Science Advanced,May,52,1,43,89,A
+78,Bashir Nnamdi,Data Science Advanced,October,83,9,49,70,C
+78,Victor Ogunbiyi,Data Science Beginners,November,76,2,80,97,C
+79,Farida Ogunleye,Python Advanced,October,61,1,53,63,C
+79,Aisha Ogunbiyi,Python Beginners,September,69,3,70,55,D
+79,Ezekiel Osei,Python Beginners,October,53,4,59,59,D
+79,Musa Olusola,Data Science Beginners,October,86,6,60,89,A
+79,Joshua Sani,Python Advanced,June,95,4,99,94,A
+80,Hauwa Osei,Data Science Beginners,April,78,3,63,86,B
+80,Chioma Fashola,Data Science Beginners,April,53,8,63,83,B
+80,Funmi Ekene,Data Science Beginners,December,68,1,85,68,A
+80,Daniel Musa,Python Beginners,December,79,10,77,80,D
+80,Chioma Adeyemi,Data Science Beginners,April,79,7,88,82,A
+80,Hauwa Okafor,Data Science Advanced,January,77,9,99,94,A
+81,Chioma Abiola,Data Science Advanced,April,97,6,86,63,C
+81,Fatima Iheanacho,Data Science Beginners,September,75,5,96,59,B
+81,Joshua Ogunleye,Python Beginners,November,98,6,84,55,B
+81,Musa Okafor,Python Beginners,March,68,10,74,95,A
+81,Ifeanyi Iheanacho,Python Beginners,May,69,1,60,59,F
+82,Sarah Ekene,Python Advanced,April,88,7,89,84,B
+82,David Chima,Python Beginners,April,55,9,93,95,C
+82,Victor Ogunleye,Data Science Advanced,September,80,4,63,74,F
+82,Ibrahim Chukwu,Python Advanced,August,93,10,69,71,A
+82,Precious Ajayi,Data Science Beginners,July,77,8,49,65,B
+83,Precious Chukwu,Python Advanced,September,62,6,83,58,B
+83,Rahman Abdullahi,Data Science Advanced,November,69,2,97,92,A
+83,Aminat Okonkwo,Data Science Advanced,February,82,7,45,64,A
+83,Olufunke Olusola,Data Science Advanced,November,69,8,54,97,F
+83,Grace Lawal,Python Advanced,October,93,8,53,86,F
+83,Amaka Kabir,Python Advanced,May,52,7,65,86,B
+84,Victor Nnamdi,Data Science Beginners,September,70,9,100,90,A
+84,Benedict Okonkwo,Python Beginners,April,91,9,46,71,B
+84,Rahman Adebisi,Python Beginners,August,83,10,82,90,C
+84,Ngozi Ekene,Python Beginners,January,83,6,85,55,D
+84,Musa Osei,Python Advanced,May,54,2,61,97,A
+84,Mohammed Adebayo,Python Advanced,February,65,3,100,88,B
+85,Usman Ekene,Data Science Advanced,June,59,3,90,98,A
+85,Funmi Eze,Data Science Beginners,May,69,10,43,95,C
+85,Victoria Okeke,Data Science Beginners,August,89,5,54,71,A
+85,Usman Balogun,Python Advanced,November,90,8,97,77,C
+85,Ngozi Kabir,Data Science Beginners,February,74,8,42,57,A
+85,Samuel Fashola,Python Advanced,April,84,6,78,72,D
+86,Usman Okoro,Data Science Beginners,March,54,3,50,61,B
+86,Fatima Yusuf,Data Science Advanced,December,77,9,75,86,C
+86,Daniel Okonkwo,Data Science Beginners,September,96,8,57,91,B
+86,Abdullahi Osei,Python Advanced,December,51,7,55,52,B
+86,Rahman Etim,Data Science Beginners,February,92,8,77,82,B
+87,Rahman Eze,Data Science Advanced,August,86,5,43,79,C
+87,Olufunke Bello,Python Advanced,March,81,9,51,60,B
+87,Kafayat Olusola,Data Science Advanced,January,94,7,92,70,C
+87,Aminat Lawal,Python Advanced,April,77,6,97,80,C
+87,Esther Okoro,Data Science Advanced,November,54,9,42,82,A
+87,Fatima Ogunbiyi,Data Science Advanced,February,75,5,74,77,D
+88,Kelvin Adewale,Python Advanced,June,68,9,50,51,D
+88,Maryam Balogun,Data Science Advanced,September,70,8,73,71,D
+88,Ngozi Yusuf,Data Science Advanced,October,97,5,67,75,A
+88,Hauwa Chima,Python Beginners,March,83,9,90,96,A
+88,Ngozi Ayodele,Data Science Beginners,September,72,6,56,54,D
+89,Grace Etim,Data Science Beginners,November,84,1,59,65,A
+89,Bashir Adams,Data Science Beginners,August,77,7,45,58,C
+89,Hauwa Musa,Python Beginners,August,72,3,43,74,A
+89,John Okafor,Data Science Beginners,May,84,9,92,95,C
+89,Amaka Okonkwo,Data Science Advanced,December,66,7,48,84,A
+90,Bashir Olawale,Python Advanced,March,82,6,98,76,B
+90,Aisha Nwachukwu,Data Science Beginners,February,95,6,53,85,B
+90,Joshua Okonkwo,Python Advanced,March,68,4,88,74,B
+90,Sarah Chukwu,Python Advanced,October,87,7,61,97,C
+90,Farida Osei,Python Advanced,March,52,10,58,58,D
+90,David Olawale,Python Beginners,July,63,9,98,68,D
+91,Adamu Adams,Data Science Advanced,June,85,8,56,79,A
+91,David Adams,Python Beginners,August,74,5,74,90,A
+91,Chukwuemeka Uche,Python Advanced,September,53,4,67,57,D
+91,Ibrahim Akinola,Python Beginners,June,90,8,94,65,A
+91,Ngozi Lawal,Python Beginners,December,84,2,60,70,A
+92,Rahman Omotayo,Data Science Beginners,December,82,5,100,58,F
+92,Esther Okoro,Data Science Advanced,March,66,2,63,81,B
+92,Maryam Ekene,Python Beginners,July,96,8,51,61,B
+92,Victoria Afolabi,Data Science Beginners,September,68,10,91,78,A
+93,Ngozi Adewale,Data Science Beginners,June,69,9,68,100,A
+93,Kafayat Ibrahim,Data Science Beginners,December,77,4,61,61,B
+93,Rose Obi,Python Advanced,December,51,8,73,76,C
+93,Kelvin Ogunbiyi,Python Beginners,August,72,6,45,71,A
+94,Ngozi Iheanacho,Python Beginners,December,55,10,66,57,A
+94,Adamu Adeyemi,Python Advanced,January,78,1,74,89,B
+94,Emeka Okafor,Data Science Advanced,April,98,6,88,95,A
+94,Chukwuemeka Abdullahi,Data Science Advanced,November,69,1,65,88,D
+95,Chukwuemeka Okafor,Data Science Advanced,October,92,6,80,58,D
+95,David Ogunbiyi,Python Beginners,September,66,8,60,100,D
+95,Umar Lawal,Data Science Beginners,September,88,3,50,62,F
+95,Chioma Ogundele,Python Beginners,January,89,3,51,57,F
+96,Chioma Iheanacho,Python Beginners,December,97,1,84,75,F
+96,Rahman Chima,Python Advanced,May,57,9,66,95,A
+96,Aisha Obi,Python Beginners,July,98,4,57,67,A
+96,Olufunke Fashola,Python Advanced,January,85,2,76,68,B
+97,Funmi Ayodele,Python Beginners,December,100,9,78,51,C
+97,Aisha Onyeka,Python Beginners,October,51,3,50,62,A
+97,Fatima Abiola,Python Advanced,March,58,9,78,77,A
+97,David Onyeka,Python Advanced,November,51,6,42,65,F
+98,Ngozi Ibrahim,Python Beginners,September,61,3,82,50,A
+98,Ezekiel Adebayo,Data Science Beginners,October,86,5,88,80,B
+98,Chioma Okeke,Data Science Advanced,September,87,5,93,92,B
+98,Aisha Adeyemi,Data Science Beginners,July,58,5,77,79,B
+98,Chinedu Obi,Python Advanced,March,52,9,62,89,D
+99,Olufunke Ibrahim,Data Science Beginners,September,85,1,63,88,B
+99,Amaka Kabir,Data Science Advanced,May,56,4,76,50,B
+99,Adamu Ekene,Data Science Advanced,March,78,10,99,67,C
+99,David Osei,Data Science Beginners,November,60,1,88,87,D
+99,Esther Adewale,Data Science Advanced,February,97,4,95,61,B
+100,Kafayat Chima,Data Science Advanced,January,94,2,44,79,A
+100,Daniel Abdullahi,Data Science Beginners,March,60,4,65,76,A
+100,Suleiman Adeyemi,Data Science Beginners,November,91,3,89,55,C
+100,Chioma Williams,Data Science Beginners,May,79,10,76,86,F
+100,John Adebayo,Python Beginners,March,72,6,43,67,D
+100,Hannah Ogunbiyi,Python Beginners,November,96,4,56,94,F
+101,Samuel Williams,Data Science Advanced,May,86,9,88,62,B
+101,Rahman Ogunbiyi,Python Advanced,May,72,3,42,91,D
+101,Rahman Olusola,Python Beginners,March,98,5,85,93,A
+101,Rahman Balogun,Data Science Beginners,July,53,3,40,77,B
+101,Patrick Abiola,Python Beginners,March,62,2,50,85,B
+102,Umar Okoye,Data Science Beginners,December,67,8,61,73,C
+102,Hauwa Okonkwo,Python Beginners,July,70,8,67,54,B
+102,Hauwa Suleiman,Data Science Advanced,June,68,5,73,60,B
+102,Ngozi Adams,Data Science Beginners,December,70,6,50,88,A
+103,Chinedu Ajayi,Data Science Advanced,April,90,10,51,55,A
+103,Victoria Yusuf,Data Science Beginners,October,97,4,71,55,B
+103,Olufunke Paul,Python Advanced,April,87,1,63,72,B
+103,Chioma Olusola,Data Science Beginners,September,100,2,56,100,D
+104,John Chima,Python Advanced,December,100,4,46,94,B
+104,Patrick Balogun,Data Science Beginners,September,57,4,84,66,C
+104,Victor Omotayo,Python Beginners,August,68,6,42,54,B
+104,Chukwuemeka Ekene,Python Advanced,July,65,2,71,71,C
+104,David Olawale,Data Science Beginners,March,59,10,60,65,D
+104,Samuel Okafor,Python Beginners,August,84,8,69,79,A
+105,Hauwa Afolabi,Python Advanced,August,75,1,79,56,A
+105,Emilia Ogundele,Data Science Beginners,January,85,9,76,50,A
+105,Hauwa Chima,Python Beginners,August,57,5,99,58,C
+105,Farida Sani,Data Science Advanced,March,51,8,62,58,C
+105,Ifeanyi Okoye,Python Advanced,April,79,6,50,84,B
+105,Sarah Bello,Python Advanced,December,62,2,84,68,B
+106,Ifeanyi Okorie,Data Science Advanced,January,83,10,99,65,B
+106,Benedict Iheanacho,Python Advanced,February,75,8,86,80,A
+106,Benedict Abdullahi,Data Science Beginners,March,57,7,53,76,A
+106,Rose Adebisi,Data Science Beginners,May,88,1,56,90,A
+106,Rose Abdullahi,Python Beginners,May,68,5,58,74,A
+107,Victoria Olusola,Data Science Beginners,July,81,10,49,85,C
+107,Victoria Okorie,Data Science Advanced,April,81,2,53,99,C
+107,Ifeanyi Uche,Data Science Advanced,May,73,6,69,53,A
+107,Emilia Chima,Data Science Beginners,August,67,7,70,63,D
+108,Adamu Balogun,Data Science Beginners,November,90,1,54,80,A
+108,Farida Fashola,Python Beginners,October,67,6,77,66,A
+108,Ahmed Ekene,Python Advanced,August,90,6,44,93,C
+108,Chioma Adebayo,Python Beginners,December,60,9,40,92,A
+108,Emilia Ibrahim,Data Science Beginners,February,93,4,75,67,D
+109,Adamu Osei,Data Science Beginners,January,55,8,51,100,A
+109,Olufunke Oladipo,Python Advanced,July,75,1,99,76,D
+109,Kelvin Onyeka,Data Science Beginners,October,96,7,60,70,D
+109,Victoria Akinola,Python Beginners,January,73,1,43,96,F
+110,Adamu Musa,Python Beginners,April,68,3,51,86,A
+110,Tunde Yusuf,Python Beginners,June,97,7,67,90,B
+110,Ezekiel Musa,Data Science Advanced,February,63,3,83,90,A
+110,Daniel Okoro,Python Beginners,February,86,4,70,51,A
+111,Patrick Etim,Python Advanced,November,71,1,75,94,C
+111,Farida Onyeka,Python Beginners,February,58,8,47,56,A
+111,Sarah Kabir,Data Science Beginners,December,55,5,67,89,B
+111,Oluwaseun Okorie,Python Beginners,April,70,3,52,98,A
+112,Chioma Ekene,Python Beginners,December,96,5,49,95,A
+112,Ibrahim Suleiman,Python Advanced,August,51,6,56,85,F
+112,Patrick Yusuf,Data Science Beginners,September,52,6,56,61,B
+112,Victor Adams,Data Science Advanced,November,74,4,97,75,C
+112,Aisha Nwachukwu,Data Science Advanced,July,77,1,79,77,F
+113,Hauwa Balogun,Python Advanced,May,91,9,73,86,A
+113,Samuel Ekene,Data Science Advanced,May,74,1,94,56,B
+113,Grace Ogundele,Python Advanced,December,65,5,75,62,F
+113,Emeka Olusola,Data Science Beginners,March,58,8,72,72,C
+113,Mohammed Obi,Data Science Advanced,June,53,8,42,78,A
+113,John Ibrahim,Python Advanced,February,77,7,83,75,B
+114,Ngozi Fashola,Data Science Beginners,May,81,4,89,60,F
+114,Joshua Olawale,Data Science Advanced,June,90,1,98,75,A
+114,Mohammed Abiola,Python Advanced,September,75,9,49,94,A
+114,Suleiman Adebisi,Python Beginners,May,57,8,43,96,A
+115,Benedict Okonkwo,Data Science Beginners,January,98,4,77,73,C
+115,Kafayat Ogunbiyi,Python Beginners,September,95,2,65,98,F
+115,Rose Fashola,Data Science Advanced,April,90,8,93,82,F
+115,Hauwa Okoye,Data Science Beginners,February,64,10,60,95,A
+115,Kafayat Adams,Python Advanced,June,67,10,85,62,B
+115,Oluwaseun Ekene,Data Science Beginners,June,78,8,83,94,A
+116,Chioma Ogunleye,Python Beginners,November,62,2,50,80,A
+116,Esther Ayodele,Python Advanced,September,65,4,74,97,B
+116,Funmi Abdullahi,Data Science Beginners,October,61,5,64,67,B
+116,Kafayat Williams,Data Science Beginners,June,67,10,45,53,D
+117,Chukwuemeka Okorie,Data Science Beginners,February,66,5,55,51,F
+117,Esther Omotayo,Data Science Advanced,October,57,4,86,79,C
+117,Usman Okafor,Data Science Beginners,January,69,8,89,71,D
+117,Esther Obi,Data Science Advanced,September,86,10,75,86,B
+118,John Balogun,Data Science Beginners,November,70,8,81,89,D
+118,Olufunke Ayodele,Data Science Advanced,November,71,5,66,78,B
+118,Suleiman Sani,Python Beginners,October,85,9,93,76,F
+118,Suleiman Lawal,Python Beginners,September,78,7,88,52,B
+118,Sarah Paul,Python Beginners,March,84,1,78,76,A
+119,Ezekiel Nnamdi,Python Advanced,April,78,4,92,76,B
+119,Victoria Olusola,Python Beginners,February,50,10,65,94,F
+119,Benedict Okafor,Data Science Beginners,October,60,9,80,54,A
+119,Abdullahi Yusuf,Python Beginners,June,83,8,84,90,F
+120,Fatima Musa,Data Science Advanced,November,100,5,74,61,C
+120,Suleiman Uche,Data Science Beginners,December,56,7,46,75,D
+120,Mohammed Iheanacho,Python Beginners,April,72,10,59,64,B
+120,Samuel Obi,Python Beginners,August,90,3,87,88,A
